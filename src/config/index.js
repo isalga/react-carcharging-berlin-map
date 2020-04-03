@@ -1,0 +1,2 @@
+export const API_URL = 'https://api.openchargemap.io/v3/poi/?output=json&countrycode=DE&maxresults=10&compact=true&verbose=false&latitude=52.520008&longitude=13.404954&distance=10&distanceunit=KM';
+export const MAPBOX_TOKEN = 'pk.eyJ1IjoiaXNhbGdhIiwiYSI6ImNrOGsxMjJyazBpdXYzZm53MGY4bHo5dmoifQ.hEC1hsmYQr8TXq8MOLtBVg';
